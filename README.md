@@ -2,7 +2,7 @@
 - **Uniforms designed by** chokun896  
 - **Models and buildings created by** chokun896 and Charon_THAI  
 - **Scripts and animations developed by** XD2021oo3  
-- **Some animations created by** Yukali15674  
+- **animations created by** Yukali15674  
 - **Game UI designed by** HIYEN747  
 - **Various contributions by** BossSWAT911To and Yukali15674
 
