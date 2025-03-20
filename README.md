@@ -6,7 +6,6 @@
 - **Game UI designed by** HIYEN747  
 - **Various contributions by** BossSWAT911To 
 
-
 --ฝ่ายนักพัฒนาระดับสูง--
 # Owner.XD2021oo3
 # Lead Developer.chokun896
