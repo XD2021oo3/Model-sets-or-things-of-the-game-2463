@@ -4,7 +4,7 @@
 - **Scripts and animations developed by** XD2021oo3  
 - **Some animations created by** Yukali15674  
 - **Game UI designed by** HIYEN747  
-- **Various contributions by** BossSWAT911To 
+- **Various contributions by** BossSWAT911To and Yukali15674
 
 --ฝ่ายนักพัฒนาระดับสูง--
 # Owner.XD2021oo3
